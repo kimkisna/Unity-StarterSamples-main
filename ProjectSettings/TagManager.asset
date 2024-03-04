@@ -9,6 +9,7 @@ TagManager:
   - SamplesInfoPanel
   - MagneticObject
   - Connectable.
+  - Snapinteraction
   layers:
   - Default
   - TransparentFX

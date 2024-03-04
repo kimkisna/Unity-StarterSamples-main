@@ -5,21 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scene/MainMenu.unity
     guid: 6faedd52296ba9342bbc38fb1a03787c
   - enabled: 1
     path: Assets/Scene/MainGame.unity
     guid: 65894f772c20d2c44bd6f589c3ca79f2
-  - enabled: 0
-    path: Assets/Scene/MainScene.unity
-    guid: cec9b956b460ae0479bb802a7003fd57
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scene/Inventory.unity
     guid: 5cffb3b789d9782409c42f9d871f6549
   - enabled: 0
-    path: Assets/Scene/EndScreen.unity
-    guid: 9739cc2232a174a4e9849896ccedce73
+    path: Assets/Samples/Meta XR Interaction SDK OVR Samples/62.0.0/Example Scenes/SnapExamples.unity
+    guid: 01ca63189b69e00488487d660224a315
   - enabled: 0
     path: Assets/StarterSamples/Usage/StartScene.unity
     guid: 071fba5195bd4b04eab8668985aa1683
@@ -71,9 +68,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scene/Scenes.unity
     guid: 7e31cf4daf2ffed4bba3a5d05688f4d9
-  - enabled: 0
-    path: Assets/Samples/Meta XR Interaction SDK OVR Samples/62.0.0/Example Scenes/SnapExamples.unity
-    guid: 01ca63189b69e00488487d660224a315
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8c0030b4b5984e7439a553df0cdd7dd2,
       type: 2}
